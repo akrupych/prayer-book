@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Молитовник</string>
+    <string name="increase_font_size">Збільшити шрифт</string>
+    <string name="decrease_font_size">Зменшити шрифт</string>
+    <string name="night_mode">Нічний режим</string>
+    <string name="day_mode">Денний режим</string>
+    <string name="scroll_up">На початок</string>
+
+</resources>
