@@ -10,7 +10,7 @@ import android.view.MenuItem;
 import android.view.ViewConfiguration;
 import android.webkit.WebView;
 
-public class SimpleActivity extends Activity {
+public class MainActivity extends Activity {
 	
 	private WebView mWebView;
 	private Menu mMenu;
